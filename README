@@ -1,3 +1,5 @@
-This is a simple skeleton of a site which is aiming to demonstrates the use of the use of Countries Info. and Weather API combined.
+### DATA FOR COUNTRIES
+
+This is a simple skeleton of a site which is aiming to demonstrates the consuming of Countries Info. and Weather's API combined.
 
 I used Node and React to build it.
